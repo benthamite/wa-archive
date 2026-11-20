@@ -1,0 +1,11 @@
+# Build output
+/bin/
+# go build with no -o, at the repository root
+/wa-archive
+
+# Local working notes and agent instructions (not part of the project)
+/AGENTS.md
+/CLAUDE.md
+/logs/
+/plans/
+/notes/
